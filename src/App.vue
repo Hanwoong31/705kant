@@ -31,6 +31,58 @@
           </div>
         </div>
 
+        <div class="youtube-section">
+          <h2>📺 칸트 철학 학습 영상</h2>
+          <p class="youtube-intro">엄선된 칸트 철학 강의로 깊이 있는 학습을 시작해보세요!</p>
+          <div class="video-grid">
+            <div class="video-card featured">
+              <div class="video-badge">🔥 추천</div>
+              <h4>왜 칸트를 알아야 하는가?</h4>
+              <p class="video-description">자유, 평등, 현대인의 사고를 만든 칸트 이야기<br>
+              임마누엘 칸트 3대 비판 철학 완벽 정리</p>
+              <div class="video-stats">
+                <span class="duration">📹 전체 강의</span>
+                <span class="views">👁️ 고품질 콘텐츠</span>
+              </div>
+              <a href="https://www.youtube.com/watch?v=_g2uZawO6rE&t=10s" target="_blank" class="video-link primary">
+                📺 강의 시청하기
+              </a>
+            </div>
+            
+            <div class="video-card">
+              <h4>순수이성비판 7분 완성</h4>
+              <p class="video-description">철학유치원의 쉽고 명확한 설명<br>
+              칸트의 핵심 이론을 단시간에 이해</p>
+              <div class="video-stats">
+                <span class="duration">📹 7분</span>
+                <span class="views">👁️ 입문자 추천</span>
+              </div>
+              <a href="https://www.youtube.com/watch?v=M2x51RTMb4I" target="_blank" class="video-link">
+                📺 강의 시청하기
+              </a>
+            </div>
+            
+            <div class="video-card international">
+              <div class="video-badge">🌍 English</div>
+              <h4>Kant's Radical Philosophy</h4>
+              <p class="video-description">영어로 배우는 칸트의 혁명적 철학<br>
+              국제적 관점에서 바라본 칸트 사상</p>
+              <div class="video-stats">
+                <span class="duration">📹 English</span>
+                <span class="views">👁️ Global View</span>
+              </div>
+              <a href="https://www.youtube.com/watch?v=iUY20tXsOfg" target="_blank" class="video-link international">
+                📺 Watch Video
+              </a>
+            </div>
+          </div>
+          
+          <div class="study-tip">
+            <h4>💡 학습 팁</h4>
+            <p>1️⃣ 첫 번째 영상으로 전체적인 이해 → 2️⃣ 두 번째 영상으로 핵심 정리 → 3️⃣ 세 번째 영상으로 국제적 관점 확장</p>
+          </div>
+        </div>
+
         <div class="biography">
           <h2>📚 생애와 업적</h2>
           <div class="timeline">
@@ -38,90 +90,29 @@
               <div class="year">1724</div>
               <div class="content">
                 <h4>쾨니히스베르크 탄생</h4>
-                <p>프로이센 왕국(현재 러시아 칼리닌그라드)에서 마구사의 아들로 태어남</p>
-              </div>
-            </div>
-            <div class="timeline-item">
-              <div class="year">1740-1755</div>
-              <div class="content">
-                <h4>대학 시절과 가정교사</h4>
-                <p>쾨니히스베르크 대학에서 철학, 수학, 자연과학 공부 후 9년간 가정교사로 생활</p>
-              </div>
-            </div>
-            <div class="timeline-item">
-              <div class="year">1770</div>
-              <div class="content">
-                <h4>정교수 임용</h4>
-                <p>46세에 쾨니히스베르크 대학 논리학·형이상학 정교수로 임용</p>
+                <p>프로이센 왕국에서 마구사의 아들로 태어남</p>
               </div>
             </div>
             <div class="timeline-item">
               <div class="year">1781</div>
               <div class="content">
                 <h4>순수이성비판 출간</h4>
-                <p>57세에 대작 『순수이성비판』 출간으로 철학계에 혁명을 일으킴</p>
+                <p>57세에 대작 출간으로 철학계에 혁명을 일으킴</p>
               </div>
             </div>
             <div class="timeline-item">
               <div class="year">1788-1790</div>
               <div class="content">
                 <h4>3대 비판서 완성</h4>
-                <p>『실천이성비판』(1788), 『판단력비판』(1790) 출간으로 비판철학 체계 완성</p>
+                <p>실천이성비판, 판단력비판으로 비판철학 체계 완성</p>
               </div>
             </div>
             <div class="timeline-item">
               <div class="year">1804</div>
               <div class="content">
                 <h4>영면</h4>
-                <p>80세로 세상을 떠나며 "그것으로 좋다(Es ist gut)"라는 말을 남김</p>
+                <p>"그것으로 좋다"라는 말을 남기며 80세로 세상을 떠남</p>
               </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="characteristics">
-          <h2>🎭 칸트의 특징</h2>
-          <div class="feature-grid">
-            <div class="feature-card">
-              <div class="feature-icon">⏰</div>
-              <h3>규칙적인 생활</h3>
-              <p>매일 같은 시간에 산책하여 주민들이 시계를 맞출 정도로 정확한 일상</p>
-            </div>
-            <div class="feature-card">
-              <div class="feature-icon">🏠</div>
-              <h3>평생 고향 거주</h3>
-              <p>태어난 쾨니히스베르크를 단 한 번도 160km 이상 벗어나지 않음</p>
-            </div>
-            <div class="feature-card">
-              <div class="feature-icon">📖</div>
-              <h3>독신으로 학문 전념</h3>
-              <p>결혼을 두 번 고려했지만 번번이 너무 오래 생각하다가 기회를 놓침</p>
-            </div>
-            <div class="feature-card">
-              <div class="feature-icon">🧠</div>
-              <h3>늦은 나이의 대성</h3>
-              <p>57세에 첫 대작을 발표하며 철학사에 길이 남을 업적을 쌓음</p>
-            </div>
-          </div>
-        </div>
-
-        <div class="youtube-section">
-          <h2>📺 칸트 철학 학습 영상</h2>
-          <div class="video-grid">
-            <div class="video-card">
-              <h4>서울대 김상환 교수 - 왜 칸트인가?</h4>
-              <p>서가명강 시리즈로 유명한 칸트 철학 입문 강의</p>
-              <a href="https://www.youtube.com/watch?v=5QWVz1hNsAE" target="_blank" class="video-link">📺 강의 보기</a>
-            </div>
-            <div class="video-card">
-              <h4>Philosophy Tube - Kant's Moral Philosophy</h4>
-              <p>160만 구독자의 인기 철학 채널, 칸트 윤리학 설명 (영어)</p>
-              <a href="https://www.youtube.com/c/PhilosophyTube" target="_blank" class="video-link">📺 채널 보기</a>
-            </div>
-            <div class="video-card">
-              <h4>The School of Life - Kant</h4>
-              <p>940만 구독자의 인문학 채널, 칸트 철학 쉬운 설명 (영어)</p>
-              <a href="https://www.youtube.com/user/schooloflifechannel" target="_blank" class="video-link">📺 채널 보기</a>
             </div>
           </div>
         </div>
@@ -158,13 +149,13 @@
             <h3>🔍 순수이성비판 (1781/1787)</h3>
             <div class="critique-content">
               <h4>코페르니쿠스적 전회</h4>
-              <p><strong>기존 생각:</strong> 인간의 인식이 대상에 따라 결정된다</p>
-              <p><strong>칸트의 혁명:</strong> 대상이 인간의 인식 형식에 따라 구성된다</p>
+              <p><strong>기존:</strong> 인간의 인식이 대상에 따라 결정</p>
+              <p><strong>칸트:</strong> 대상이 인간의 인식 형식에 따라 구성</p>
               
               <div class="concept-box">
                 <h5>🧩 주요 개념</h5>
                 <ul>
-                  <li><strong>선험적 종합판단:</strong> 경험 이전에 주어지면서도 새로운 지식을 제공</li>
+                  <li><strong>선험적 종합판단:</strong> 경험 이전에 주어지면서도 새로운 지식 제공</li>
                   <li><strong>물자체:</strong> 인간이 결코 알 수 없는 사물 그 자체</li>
                   <li><strong>현상:</strong> 인간의 인식 형식을 통해 나타나는 사물의 모습</li>
                 </ul>
@@ -185,9 +176,9 @@
               <div class="concept-box">
                 <h5>🎯 실천 예시</h5>
                 <ul>
-                  <li><strong>거짓말:</strong> 모든 사람이 거짓말한다면 약속 자체가 불가능 → 금지</li>
-                  <li><strong>도움:</strong> 모든 사람이 서로 돕는다면 더 나은 세상 → 의무</li>
-                  <li><strong>인격 존중:</strong> 사람을 수단이 아닌 목적으로 대우하라</li>
+                  <li><strong>거짓말:</strong> 모든 사람이 거짓말하면 약속 불가능 → 금지</li>
+                  <li><strong>도움:</strong> 모든 사람이 서로 도우면 더 나은 세상 → 의무</li>
+                  <li><strong>인격 존중:</strong> 사람을 수단이 아닌 목적으로 대우</li>
                 </ul>
               </div>
             </div>
@@ -203,33 +194,11 @@
                 <h5>🌸 미의 4가지 특징</h5>
                 <ul>
                   <li><strong>관심 없는 만족:</strong> 소유욕 없이 순수하게 아름다움을 느낌</li>
-                  <li><strong>보편적 타당성:</strong> 주관적이지만 모든 사람이 동의할 수 있음</li>
+                  <li><strong>보편적 타당성:</strong> 주관적이지만 모든 사람이 동의 가능</li>
                   <li><strong>목적 없는 합목적성:</strong> 목적은 없지만 조화로움</li>
                   <li><strong>필연적 만족:</strong> 미는 필연적으로 쾌감을 줌</li>
                 </ul>
               </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="modern-relevance">
-          <h2>🌍 현대적 의의</h2>
-          <div class="relevance-grid">
-            <div class="relevance-card">
-              <h4>💼 기업 윤리</h4>
-              <p>정언명령을 통한 보편적 기업 윤리 기준 제시</p>
-            </div>
-            <div class="relevance-card">
-              <h4>🏛️ 민주주의</h4>
-              <p>인간의 존엄성과 자율성을 바탕으로 한 정치 철학</p>
-            </div>
-            <div class="relevance-card">
-              <h4>🤖 AI 윤리</h4>
-              <p>인공지능 시대의 인간 중심적 가치 판단 기준</p>
-            </div>
-            <div class="relevance-card">
-              <h4>🧭 비판적 사고</h4>
-              <p>무비판적 수용을 거부하고 이성적 판단 강조</p>
             </div>
           </div>
         </div>
@@ -246,7 +215,16 @@
             <blockquote class="quote">
               "행복을 위해 행동하지 말고, 행복할 자격이 있도록 행동하라."
             </blockquote>
+            <blockquote class="quote">
+              "감히 알려고 하라! (Sapere aude!)"
+            </blockquote>
           </div>
+        </div>
+
+        <div class="video-reminder">
+          <h3>📚 더 깊이 공부하고 싶다면?</h3>
+          <p>철학자 소개 페이지의 <strong>엄선된 3개 강의</strong>를 순서대로 시청해보세요!</p>
+          <button @click="currentPage = 'about'" class="video-back-btn">강의 영상 보러가기 →</button>
         </div>
 
         <button @click="currentPage = 'about'" class="prev-button">← 철학자 소개로 돌아가기</button>
@@ -357,7 +335,7 @@ body {
   to { opacity: 1; transform: translateY(0); }
 }
 
-/* About Page */
+/* Hero Section */
 .hero {
   text-align: center;
   margin-bottom: 4rem;
@@ -405,6 +383,156 @@ body {
 .hero-quote cite {
   color: #7f8c8d;
   font-size: 1rem;
+}
+
+/* Enhanced YouTube Section */
+.youtube-section {
+  margin: 4rem 0;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  padding: 3rem;
+  border-radius: 20px;
+  color: white;
+}
+
+.youtube-section h2 {
+  text-align: center;
+  margin-bottom: 1rem;
+  font-size: 2.5rem;
+  color: white;
+}
+
+.youtube-intro {
+  text-align: center;
+  font-size: 1.2rem;
+  margin-bottom: 3rem;
+  opacity: 0.9;
+}
+
+.video-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
+
+.video-card {
+  background: rgba(255, 255, 255, 0.95);
+  color: #2c3e50;
+  padding: 2rem;
+  border-radius: 15px;
+  position: relative;
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.video-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 15px 40px rgba(0,0,0,0.2);
+}
+
+.video-card.featured {
+  border: 3px solid #f39c12;
+  background: rgba(255, 255, 255, 1);
+}
+
+.video-card.international {
+  border: 3px solid #27ae60;
+}
+
+.video-badge {
+  position: absolute;
+  top: -10px;
+  right: 15px;
+  background: #e74c3c;
+  color: white;
+  padding: 0.3rem 0.8rem;
+  border-radius: 15px;
+  font-size: 0.9rem;
+  font-weight: bold;
+}
+
+.video-card.international .video-badge {
+  background: #27ae60;
+}
+
+.video-card h4 {
+  color: #2c3e50;
+  margin-bottom: 1rem;
+  font-size: 1.4rem;
+  font-weight: bold;
+}
+
+.video-description {
+  color: #7f8c8d;
+  margin-bottom: 1rem;
+  line-height: 1.6;
+  font-size: 1rem;
+}
+
+.video-stats {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+  font-size: 0.9rem;
+}
+
+.video-stats span {
+  background: #ecf0f1;
+  padding: 0.3rem 0.8rem;
+  border-radius: 20px;
+  color: #7f8c8d;
+}
+
+.video-link {
+  display: inline-block;
+  background: #3498db;
+  color: white;
+  padding: 1rem 1.5rem;
+  border-radius: 10px;
+  text-decoration: none;
+  transition: all 0.3s;
+  font-weight: bold;
+  width: 100%;
+  text-align: center;
+}
+
+.video-link:hover {
+  background: #2980b9;
+  transform: translateY(-2px);
+}
+
+.video-link.primary {
+  background: linear-gradient(135deg, #e74c3c, #c0392b);
+}
+
+.video-link.primary:hover {
+  background: linear-gradient(135deg, #c0392b, #a93226);
+}
+
+.video-link.international {
+  background: linear-gradient(135deg, #27ae60, #229954);
+}
+
+.video-link.international:hover {
+  background: linear-gradient(135deg, #229954, #1e8449);
+}
+
+.study-tip {
+  background: rgba(255, 255, 255, 0.1);
+  padding: 2rem;
+  border-radius: 15px;
+  margin-top: 2rem;
+  border-left: 4px solid #f39c12;
+}
+
+.study-tip h4 {
+  color: white;
+  margin-bottom: 1rem;
+  font-size: 1.3rem;
+}
+
+.study-tip p {
+  line-height: 1.6;
+  opacity: 0.9;
 }
 
 /* Timeline */
@@ -462,103 +590,6 @@ body {
 .timeline-item p {
   color: #7f8c8d;
   line-height: 1.6;
-}
-
-/* Feature Grid */
-.characteristics {
-  margin: 4rem 0;
-}
-
-.characteristics h2 {
-  text-align: center;
-  margin-bottom: 3rem;
-  font-size: 2.5rem;
-}
-
-.feature-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 2rem;
-}
-
-.feature-card {
-  text-align: center;
-  padding: 2.5rem;
-  background: #f8f9fa;
-  border-radius: 15px;
-  transition: transform 0.3s, box-shadow 0.3s;
-  border: 1px solid #ecf0f1;
-}
-
-.feature-card:hover {
-  transform: translateY(-10px);
-  box-shadow: 0 20px 40px rgba(0,0,0,0.1);
-}
-
-.feature-icon {
-  font-size: 4rem;
-  margin-bottom: 1.5rem;
-}
-
-.feature-card h3 {
-  color: #2c3e50;
-  margin-bottom: 1rem;
-  font-size: 1.4rem;
-}
-
-.feature-card p {
-  color: #7f8c8d;
-  line-height: 1.6;
-}
-
-/* YouTube Section */
-.youtube-section {
-  margin: 4rem 0;
-}
-
-.youtube-section h2 {
-  text-align: center;
-  margin-bottom: 3rem;
-  font-size: 2.5rem;
-}
-
-.video-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 2rem;
-}
-
-.video-card {
-  background: #f8f9fa;
-  padding: 2rem;
-  border-radius: 15px;
-  border-left: 4px solid #e74c3c;
-}
-
-.video-card h4 {
-  color: #2c3e50;
-  margin-bottom: 1rem;
-  font-size: 1.3rem;
-}
-
-.video-card p {
-  color: #7f8c8d;
-  margin-bottom: 1.5rem;
-  line-height: 1.6;
-}
-
-.video-link {
-  display: inline-block;
-  background: #e74c3c;
-  color: white;
-  padding: 0.8rem 1.5rem;
-  border-radius: 8px;
-  text-decoration: none;
-  transition: background 0.3s;
-}
-
-.video-link:hover {
-  background: #c0392b;
 }
 
 /* Philosophy Page */
@@ -665,36 +696,6 @@ body {
   line-height: 1.6;
 }
 
-/* Modern Relevance */
-.modern-relevance {
-  margin: 4rem 0;
-}
-
-.modern-relevance h2 {
-  text-align: center;
-  margin-bottom: 3rem;
-  font-size: 2.5rem;
-}
-
-.relevance-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: 2rem;
-}
-
-.relevance-card {
-  background: linear-gradient(135deg, #f39c12, #e67e22);
-  color: white;
-  padding: 2rem;
-  border-radius: 15px;
-  text-align: center;
-}
-
-.relevance-card h4 {
-  margin-bottom: 1rem;
-  font-size: 1.3rem;
-}
-
 /* Famous Quotes */
 .famous-quotes {
   margin: 4rem 0;
@@ -708,7 +709,7 @@ body {
 
 .quotes-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: 2rem;
 }
 
@@ -721,6 +722,42 @@ body {
   color: #2c3e50;
   border-left: 5px solid #3498db;
   line-height: 1.6;
+}
+
+/* Video Reminder */
+.video-reminder {
+  background: linear-gradient(135deg, #667eea, #764ba2);
+  color: white;
+  padding: 2rem;
+  border-radius: 15px;
+  text-align: center;
+  margin: 3rem 0;
+}
+
+.video-reminder h3 {
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+}
+
+.video-reminder p {
+  margin-bottom: 1.5rem;
+  opacity: 0.9;
+}
+
+.video-back-btn {
+  background: rgba(255, 255, 255, 0.2);
+  color: white;
+  border: 2px solid white;
+  padding: 1rem 2rem;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: all 0.3s;
+  font-size: 1.1rem;
+}
+
+.video-back-btn:hover {
+  background: white;
+  color: #667eea;
 }
 
 /* Buttons */
@@ -779,11 +816,17 @@ body {
   }
 
   .questions,
-  .feature-grid,
   .video-grid,
-  .relevance-grid,
   .quotes-grid {
     grid-template-columns: 1fr;
+  }
+
+  .youtube-section {
+    padding: 2rem;
+  }
+
+  .video-card {
+    padding: 1.5rem;
   }
 }
 </style>
